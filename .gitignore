@@ -1,0 +1,12 @@
+# Visual Studio generated folder
+.vs/
+
+# Visual Studio uses "out", others use "build"
+build/
+out/
+
+# VS Code settings.json
+# Normally would include this, but for C++ projects VS code likes to keep adding lots of files.associations
+.vscode/settings.json
+
+game/
