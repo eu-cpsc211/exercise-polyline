@@ -194,9 +194,6 @@ int main(void)
 
         /* ------------------------------------------------------------------------
         Update frame
-
-        Run any logic to compute the state of this frame, such
-        as user input, game state, and physics computations.
         ------------------------------------------------------------------------- */
 
         // User can add a new line segment by clicking the left mouse button
@@ -232,9 +229,6 @@ int main(void)
 
         /* ------------------------------------------------------------------------
         Draw frame
-
-        Draw any objects in the world or text on the screen based on their current
-        position/state.
         ------------------------------------------------------------------------- */
 
         BeginDrawing();
